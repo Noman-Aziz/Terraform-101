@@ -1,0 +1,2 @@
+## [Project 1](https://www.youtube.com/watch?v=SLB_c_ayRMo)
+It contains simple AWS deployment of an EC2 machine inside a public subnet with security groups attached to it inside a VPC. Traffic is routed through the internet gateway with a route table assigned to it. EC2 machine has a private elastic IP address assigned to it via a network interface. Finally, the EC2 machine is deployed with apache2 serving a static web application.
